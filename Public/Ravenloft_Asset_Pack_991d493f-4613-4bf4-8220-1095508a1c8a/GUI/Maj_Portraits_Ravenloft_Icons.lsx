@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="6" build="0" />
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Creatures_Raven" type="22" />
+                    <attribute id="U1" value="0.000488281" type="6" />
+                    <attribute id="U2" value="0.0776367" type="6" />
+                    <attribute id="V1" value="0.000488281" type="6" />
+                    <attribute id="V2" value="0.097168" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Creatures_Vampire_Bat" type="22" />
+                    <attribute id="U1" value="0.0786133" type="6" />
+                    <attribute id="U2" value="0.155762" type="6" />
+                    <attribute id="V1" value="0.000488281" type="6" />
+                    <attribute id="V2" value="0.097168" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Hero_Strahd_von_Zarovich" type="22" />
+                    <attribute id="U1" value="0.156738" type="6" />
+                    <attribute id="U2" value="0.233887" type="6" />
+                    <attribute id="V1" value="0.000488281" type="6" />
+                    <attribute id="V2" value="0.097168" type="6" />
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" value="100" type="4" />
+                    <attribute id="Width" value="80" type="4" />
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" value="Assets/Textures/Icons/Maj_Portraits_Ravenloft_Icons.dds" type="20" />
+                    <attribute id="UUID" value="fca1fc97-d0d6-4786-b64c-bfe3d4bf6333" type="22" />
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" value="1024" type="4" />
+                    <attribute id="Width" value="1024" type="4" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

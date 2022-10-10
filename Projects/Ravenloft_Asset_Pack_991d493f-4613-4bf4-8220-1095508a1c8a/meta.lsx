@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="6" build="0" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="991d493f-4613-4bf4-8220-1095508a1c8a" type="23" />
+            <attribute id="Name" value="Ravenloft_Asset_Pack" type="23" />
+            <attribute id="Type" value="Add-on" type="23" />
+            <attribute id="UUID" value="700d3628-83d6-4427-837d-73afd24eba99" type="23" />
+        </node>
+    </region>
+</save>
