@@ -20,6 +20,27 @@
                     <attribute id="V2" value="0.097168" type="6" />
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" value="Furniture_Sun_Effigy" type="22" />
+                    <attribute id="U1" value="0.312988" type="6" />
+                    <attribute id="U2" value="0.390137" type="6" />
+                    <attribute id="V1" value="0.000488281" type="6" />
+                    <attribute id="V2" value="0.097168" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Furniture_Sun_Effigy_Painted" type="22" />
+                    <attribute id="U1" value="0.391113" type="6" />
+                    <attribute id="U2" value="0.468262" type="6" />
+                    <attribute id="V1" value="0.000488281" type="6" />
+                    <attribute id="V2" value="0.097168" type="6" />
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" value="Hero_Izek_Strazni" type="22" />
+                    <attribute id="U1" value="0.234863" type="6" />
+                    <attribute id="U2" value="0.312012" type="6" />
+                    <attribute id="V1" value="0.000488281" type="6" />
+                    <attribute id="V2" value="0.097168" type="6" />
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" value="Hero_Strahd_von_Zarovich" type="22" />
                     <attribute id="U1" value="0.156738" type="6" />
                     <attribute id="U2" value="0.233887" type="6" />
